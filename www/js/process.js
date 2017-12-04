@@ -126,7 +126,7 @@ var dom =
            <p> Set up a bain marie. Pour water into a saucepan and get it simmering.</p> </center>
               
            <center>
-           <p> <img src="img/s3.jpg" width="100%" height100%" class="lazy lazy-fadeIn"></img></p>
+           <p> <img src="img/s3.jpg" width="100%" height="100%" class="lazy lazy-fadeIn"></img></p>
            <p>  Add egg yolks and 1 cup of sugar to the bowl. Whisk till the yolks and sugar over the simmering water until the sugar dissolves, about 3 or 4 minutes. When you no longer see sugar granules, remove the bowl from heat.</p> </center>
               
            <center>
